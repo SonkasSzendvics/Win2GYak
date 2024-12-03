@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win2GYak", "Win2GYak\Win2GYak.csproj", "{ADC434FE-CAAC-4587-9494-9DEC2654AD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC434FE-CAAC-4587-9494-9DEC2654AD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC434FE-CAAC-4587-9494-9DEC2654AD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC434FE-CAAC-4587-9494-9DEC2654AD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC434FE-CAAC-4587-9494-9DEC2654AD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A570F01A-182E-49D2-ABB3-6EB62FAEC074}
+	EndGlobalSection
+EndGlobal
